@@ -12,9 +12,9 @@ const firebaseConfig = {
   authDomain: "email-end-to-end-encryption.firebaseapp.com",
   projectId: "email-end-to-end-encryption",
   storageBucket: "email-end-to-end-encryption.firebasestorage.app",
-  messagingSenderId: "522727132965",
-  appId: "1:522727132965:web:3d0d355904f5dd215f14cc",
-  measurementId: "G-RFJ368SV57"
+  messagingSenderId: "....",
+  appId: "....",
+  measurementId: "....."
 };
 
 // Initialize Firebase
