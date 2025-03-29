@@ -1,0 +1,49 @@
+/* App.css */
+
+/* Login Page Background */
+.login {
+  background: url('./assets/login-bg.png') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Dashboard Page Background */
+.dashboard {
+  background: url('./assets/dashboard-bg.jpg') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Styling for Login Button */
+.login-content button {
+  font-size: 18px;
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Dashboard Content */
+.dashboard-content {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.dashboard-content button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
