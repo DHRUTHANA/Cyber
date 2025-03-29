@@ -7,7 +7,8 @@ import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from "firebase/
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCpHu2T7h-uD-Hzec554xpbH0EjWnxrNhQ",
+  apiKey: "apikey
+    ",
   authDomain: "email-end-to-end-encryption.firebaseapp.com",
   projectId: "email-end-to-end-encryption",
   storageBucket: "email-end-to-end-encryption.firebasestorage.app",
